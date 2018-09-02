@@ -28,6 +28,8 @@ Take help from your typewriter friend :) You seem too slow
 It is impossible to type this soo much in 10 sec.
 so,i used this script to solve problem. although it can be done through automation.
 
+![alt text](https://github.com/Mk-ism/Codefest-18-CTF-Writeups/blob/master/Typing%20master/type.py)
+
 Copy from **'** to end and run program and paste result to get the flag
 
 ![alt text](https://github.com/Mk-ism/Codefest-18-CTF-Writeups/blob/master/Typing%20master/first.jpg)
