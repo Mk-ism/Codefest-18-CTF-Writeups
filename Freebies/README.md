@@ -1,1 +1,1 @@
-![alt text](http://url/to/freebies.jpg)
+![alt text](https://github.com/Mk-ism/Codefest-18-CTF-Writeups/blob/master/Freebies/freebies.jpg)
