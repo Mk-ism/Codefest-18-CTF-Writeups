@@ -9,7 +9,7 @@ Repair given corrupted file to get the flag.
 
 # Solution
 In this challenge, I checked file type,strings,hex values and many more but nothing helped.
-so,then it used online recovry tool(https://online.officerecovery.com/pixrecovery/) to recover the file.
+so,then I used online recovry tool(https://online.officerecovery.com/pixrecovery/) to recover the file.
 
 After repairing it gives bmp image file in which flag is printed.
 
