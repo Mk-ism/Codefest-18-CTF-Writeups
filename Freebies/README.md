@@ -11,5 +11,5 @@ and get the flag.
 
 ![alt text](https://github.com/Mk-ism/Codefest-18-CTF-Writeups/blob/master/Freebies/freebies.jpg)
 
-Flag : CodefestCTF{Phr33B13$ RLO\/3}
+Flag : CodefestCTF{Phr33B13$ RLO\\/3}
 
